@@ -1,0 +1,1 @@
+- module nén ảnh trước khi gửi đi
